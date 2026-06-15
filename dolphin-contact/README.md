@@ -12,7 +12,7 @@ cp .env.example .env.local
 Add your Gmail App Password to `.env.local`:
 
 ```env
-SMTP_USER=aaravkhemka9@gmail.com
+SMTP_USER=email@gmail.com
 SMTP_PASS=your_16_character_app_password
 SMTP_FROM=Dolphin Contact <aaravkhemka9@gmail.com>
 ```
